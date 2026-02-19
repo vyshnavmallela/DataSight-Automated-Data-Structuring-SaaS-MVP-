@@ -1,0 +1,13 @@
+data-saas-mvp/
+│
+├── app.py                 # Streamlit main app
+├── analysis.py            # Data logic (cleaning, metrics)
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+├── .gitignore             # Ignore unnecessary files
+│
+├── assets/                # (optional later)
+│   └── screenshots/
+│
+└── sample_data/
+    └── messy_sample.csv   # Demo dataset
