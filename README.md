@@ -1,5 +1,5 @@
 # 🚀 DataSight – Automated Data Structuring SaaS (MVP)
-🔗 Live Demo: https://your-app-name.streamlit.app
+🔗 Live Demo: https://datasight.streamlit.app
 DataSight is a cloud-based SaaS MVP that helps companies convert messy,
 unstructured datasets into clean, structured, analysis-ready data
 within seconds.
